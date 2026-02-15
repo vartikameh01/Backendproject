@@ -1,0 +1,11 @@
+// You have given an array of 5 Elements
+//arr=[21,31,41,71,81]
+//You need to reverse the array.
+//final output: 81 71 41 31 21
+class reverse{
+    public static void main(String[] args){
+        int arr[]={21,31,41,71,81};
+        
+    }
+    }
+}
